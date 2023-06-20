@@ -28,7 +28,7 @@ function addInCartCountChange(value) {
 
     let newValue; // создайте переменную newValue
     newValue = oldValue; // присвойте ей значение oldValue
-    console.log(newValue + 1); // увеличьте значение newValue на 1
+    newValue + 1; // увеличьте значение newValue на 1
 
     // Конец решения задания №1.2.
 
